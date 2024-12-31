@@ -6,7 +6,7 @@ int main(){
 	
  	(r<=5)?a++:a--;
 		for(int c=1;c<=9;c++){
-			if(c>=6-a&& c<=4+a){
+ 			if(c>=6-a&& c<=4+a){
 				cout<<"*";			}
 		
 			else{
